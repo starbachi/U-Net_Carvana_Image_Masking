@@ -1,2 +1,5 @@
 carvana-dataset/
 carvana-image-masking-challenge.zip
+logs/
+venv/
+carvana_submission.csv
